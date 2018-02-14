@@ -2,7 +2,7 @@ from twisted.internet.defer import inlineCallbacks
 
 from autobahn.twisted.wamp import ApplicationSession
 
-_version = "0.0.2"
+_version = "0.0.3"
 __version__ = VERSION = tuple(map(int, _version.split('.')))
 
 
