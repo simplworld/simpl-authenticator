@@ -8,7 +8,7 @@ readme = f.read()
 f.close()
 
 setup(
-    name='authenticator',
+    name='simpl-authenticator',
     version=VERSION,
     description='',
     long_description=readme,

@@ -4,7 +4,7 @@ WAMP Authenticator Component for SIMPL
 
 ## Installation
 
-    $ pip install git+ssh://git@learninglab.githost.io:lldev-team/simpl-authenticator.git@master#egg=authenticator
+    $ pip install git+ssh://git@learninglab.githost.io:lldev-team/simpl-authenticator.git@master#egg=simpl-authenticator
 
 ## Setup environment
 
