@@ -10,7 +10,7 @@ f.close()
 setup(
     name='simpl-authenticator',
     version=VERSION,
-    description='',
+    description='WAMP Authenticator Component for Simpl',
     long_description=readme,
     author='',
     author_email='',
@@ -22,6 +22,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
         'Intended Audience :: Developers',
+        'License :: OSI Approved :: Apache Software License',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 3',
     ],
