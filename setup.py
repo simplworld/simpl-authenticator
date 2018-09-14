@@ -14,7 +14,7 @@ setup(
     long_description=readme,
     author='',
     author_email='',
-    url='',
+    url='https://github.com/simplworld/simpl-authenticator',
     include_package_data=True,
     packages=find_packages(),
     zip_safe=False,
