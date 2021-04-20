@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 3',
     ],
     install_requires=[
-        "autobahn==17.10.1",
+        "autobahn==20.12.3",
     ],
     tests_require=[
     ]
